@@ -186,7 +186,7 @@ Below are sample outputs from the chatbot interface, showcasing **query response
 
 | Query Result | Chart Visualization |
 |--------------|---------------------|
-| ![SQL Output](screenshots/query_output.png) | ![Chart](screenshots/chart_output.png) |
+| ![SQL Output](Screenshots/query_output.png) | ![Chart](Screenshots/chart_output.png) |
 
 ---
 
